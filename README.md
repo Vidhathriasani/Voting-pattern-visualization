@@ -1,12 +1,18 @@
-ELECTION VOTING WITH VISUALISATION PATTERN INTERPRETATION
-Course info : CS5710
+# Election Voting Prediction and Visualization
 
-Done By:
- Asani Vidhathri: 700732408 Arun Kumar Yeddula: 700739780 Rajesh Adepu: 70074153
+This project explores **voting prediction and pattern interpretation** using machine learning techniques.  
+The goal is to analyze voting datasets, build predictive models, and visualize results to identify patterns in electoral data.
 
-Please find the presentation video link below 
+## Features
+- Data preprocessing of U.S. election dataset.  
+- Predictive modeling using machine learning (scikit-learn).  
+- Visualization of voting patterns with Matplotlib and Seaborn.  
+- Presentation video and project documentation included.  
 
-https://drive.google.com/file/d/1-ybth2Cb61lpmmfm8hn30AvrN2UASOwW/view?usp=drive_link
+## Dataset
+- **US_dataset.csv**: Contains features used for modeling and prediction.  
 
-
-Please install the following libraries/modules before running the code numpy pandas matplotlib seaborn Sklearn-scikit
+## Requirements
+Please install the following libraries/modules before running the code:
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn
